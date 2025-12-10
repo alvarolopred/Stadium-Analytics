@@ -6,8 +6,9 @@ Este proyecto basado en Python rastrea datos de https://en.wikipedia.org/wiki/Li
 ## Tabla de contenido
 
 1. [Arquitectura del Sistema](#arquitectura-del-sistema)
-2. [Requisitos](#requisitos)
-3. [Rastreo Web](#rastreo-web)
+2. WebScrapping(No es necerario en Databricks)
+3. [Requisitos](#requisitos)
+4. [Rastreo Web](#rastreo-web)
 6. [Azure](#azure)
 7. [Power BI](#power-bi)
 8. [Video](#video)
