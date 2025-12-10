@@ -255,4 +255,4 @@ Y seleccionamos nuestra tabla de datos dentro de Synapse:
 
 ![image](https://github.com/user-attachments/assets/09c71b34-1d6d-4d63-a3ab-1563fb16e957)
 
-2. Los KPIs estan en el .pbit del repositorio
+2. Los KPIs estan en el .pbix del repositorio
